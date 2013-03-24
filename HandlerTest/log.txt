@@ -1,0 +1,31 @@
+03-24 11:41:46.791: E/com.yenhsun.service.TestService(14886): GO 0
+03-24 11:41:46.791: I/com.yenhsun.service.TestService(14886): 0
+03-24 11:41:46.791: E/com.yenhsun.service.TestService(14886): what : 1, sleep time : 276
+03-24 11:41:46.801: I/com.yenhsun.service.TestService(14886): 1
+03-24 11:41:46.801: I/com.yenhsun.service.TestService(14886): 2
+03-24 11:41:46.801: I/com.yenhsun.service.TestService(14886): 3
+03-24 11:41:46.801: I/com.yenhsun.service.TestService(14886): 4
+03-24 11:41:46.801: I/com.yenhsun.service.TestService(14886): 5
+03-24 11:41:46.806: I/com.yenhsun.service.TestService(14886): 6
+03-24 11:41:46.806: I/com.yenhsun.service.TestService(14886): 7
+03-24 11:41:46.806: I/com.yenhsun.service.TestService(14886): 8
+03-24 11:41:46.806: I/com.yenhsun.service.TestService(14886): 9
+03-24 11:41:47.071: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:47.071: E/com.yenhsun.service.TestService(14886): what : 2, sleep time : 1547
+03-24 11:41:48.616: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:48.616: E/com.yenhsun.service.TestService(14886): what : 3, sleep time : 3490
+03-24 11:41:52.111: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:52.111: E/com.yenhsun.service.TestService(14886): what : 4, sleep time : 711
+03-24 11:41:52.826: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:52.826: E/com.yenhsun.service.TestService(14886): what : 5, sleep time : 4970
+03-24 11:41:57.791: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:57.791: E/com.yenhsun.service.TestService(14886): what : 6, sleep time : 331
+03-24 11:41:58.131: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:41:58.131: E/com.yenhsun.service.TestService(14886): what : 7, sleep time : 4413
+03-24 11:42:02.546: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:42:02.546: E/com.yenhsun.service.TestService(14886): what : 8, sleep time : 3324
+03-24 11:42:05.871: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:42:05.871: E/com.yenhsun.service.TestService(14886): what : 9, sleep time : 4062
+03-24 11:42:09.936: E/com.yenhsun.service.TestService(14886): done!
+03-24 11:42:09.936: E/com.yenhsun.service.TestService(14886): what : 10, sleep time : 102
+03-24 11:42:10.036: E/com.yenhsun.service.TestService(14886): done!
