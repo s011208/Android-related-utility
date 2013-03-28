@@ -17,6 +17,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE    := NDKTest
-LOCAL_SRC_FILES := NDKTest.c
+LOCAL_SRC_FILES := NDKTest.c \
+			magic.c
 
 include $(BUILD_SHARED_LIBRARY)
